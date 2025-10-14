@@ -1,0 +1,22 @@
+body {
+  background: #0f6996; 
+  padding: 50px;
+}
+
+h1, p {
+  color: #ff33cc;         
+  background-color: #001f3f;
+  font-family: sans-serif;
+  padding: 10px;
+}
+
+#character {
+  width: 150px;
+}
+#character1 { width: 220px; }
+#character2 { width: 140px; }
+
+.scene {
+  display: flex;
+  gap: 20px;
+}
